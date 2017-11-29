@@ -1,0 +1,42 @@
+/*SIRVE PARA PONER FONDO DE LA PAGINA*/
+body {
+	background: #00a1e1;
+	margin: 50px;
+}
+
+
+.taman{
+	margin: auto;
+	width: 300px; height: 100px;
+}
+
+.pictur{
+	float:right;	
+	width: 300px; height: 100px;
+}
+
+.foto{
+	display: block;
+	margin: auto;
+	
+}
+
+.letra {
+	font-family: 'Kaushan Script', cursive;
+	color: #263049;
+}
+
+
+.intro{
+
+	color: #00000;
+}
+
+.borde{
+	
+	border-radius: 100px;
+	background-color: white;
+	
+}
+
+ 
